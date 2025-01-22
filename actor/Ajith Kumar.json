@@ -1,5 +1,12 @@
-[
-    {
+{
+   "actorCategory":[
+      {
+         "name":"Joseph Vijay",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRqm6rMCJrWQ00Movz1jmTRJW_1arTmohiQ&s"
+      }
+   ],
+   "movies":[
+  {
         "title": "En Veedu En Kanavar",
         "year": 1990,
         "thumb": "https://m.media-amazon.com/images/M/MV5BY2RiYjY0ZmEtNDFlNC00ZTMxLWJkNTctY2UxMDI2YTA5MWY5XkEyXkFqcGc@._V1_QL75_UY207_CR28,0,140,207_.jpg",
@@ -440,4 +447,6 @@
         "url": "https://www.youtube.com/results?search_query=Good+Bad+Ugly+tamil+full+movie",
         "actor": "Ajith Kumar"
     }
-]
+
+   ]
+}
