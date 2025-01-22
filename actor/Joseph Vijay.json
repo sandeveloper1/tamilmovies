@@ -1,4 +1,11 @@
-[
+{
+   "actorCategory":[
+      {
+         "name":"Kamal Haasan",
+         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kamal_haasan.jpg/220px-Kamal_haasan.jpg"
+      }
+   ],
+   "movies":[
     {
         "title": "Naalaiya Theerpu",
         "year": 1992.0,
@@ -1489,5 +1496,6 @@
         "thumb": "https://m.media-amazon.com/images/M/MV5BZTYxYmJiZWItMTZkYi00Yjg5LWE3Y2UtMGE4N2Y5NzhlNzljXkEyXkFqcGc@._V1_QL75_UX140_CR0,21,140,207_.jpg",
         "url": "https://www.youtube.com/results?search_query=Vikram+tamil+full+movie",
         "actor": "Joseph Vijay"
-    }
-]
+       }
+   ]
+}
