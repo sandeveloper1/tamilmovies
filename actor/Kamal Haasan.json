@@ -1,4 +1,11 @@
-[
+{
+   "actorCategory":[
+      {
+         "name":"Kamal Haasan",
+         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kamal_haasan.jpg/220px-Kamal_haasan.jpg"
+      }
+   ],
+   "movies":[
     {
         "title": "Kalathur Kannamma",
         "year": 1960,
