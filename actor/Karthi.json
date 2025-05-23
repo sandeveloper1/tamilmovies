@@ -1,3 +1,11 @@
+{
+   "actorCategory":[
+      {
+         "name":"Ajith Kumar",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqHKEzpdVtPEyy_tdQaadPYli7ez_tEdfSw&s"
+      }
+   ],
+   "movies":[
 [
   {
    "title": "Paruthiveeran",
