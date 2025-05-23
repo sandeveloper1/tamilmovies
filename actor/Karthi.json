@@ -1,13 +1,12 @@
 {
    "actorCategory":[
       {
-         "name":"Ajith Kumar",
-         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqHKEzpdVtPEyy_tdQaadPYli7ez_tEdfSw&s"
+         "name":"Karthi",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRqm6rMCJrWQ00Movz1jmTRJW_1arTmohiQ&s"
       }
    ],
    "movies":[
-[
-  {
+   {
    "title": "Paruthiveeran",
     "year": 2007,
     "image": "https://m.media-amazon.com/images/M/MV5BMmYyOTY0MTUtY2JiZi00NzhmLWFmNGYtODA5NDc0NzM3Nzc2XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
@@ -164,3 +163,4 @@
     "actor": "Karthi"
   }
 ]
+}
